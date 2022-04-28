@@ -1,2 +1,2 @@
 # C#.net
-Dot.net Open Source Framework
+Open Source Framework
